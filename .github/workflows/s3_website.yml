@@ -1,12 +1,12 @@
 name: Deploy Website to S3 Bucket
-
+ 
 on:
   push:
     branches:
       - 'main'
     paths:
       - 'index.html'
-      
+ 
 jobs:
   build:
     runs-on: ubuntu-latest
