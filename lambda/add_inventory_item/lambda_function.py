@@ -1,4 +1,3 @@
-# Testing
 import json
 import boto3
 from decimal import Decimal
