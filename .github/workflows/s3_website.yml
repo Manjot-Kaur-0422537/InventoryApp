@@ -6,7 +6,6 @@ on:
       - 'main'
     paths:
       - 'index.html'
- 
 jobs:
   build:
     runs-on: ubuntu-latest
