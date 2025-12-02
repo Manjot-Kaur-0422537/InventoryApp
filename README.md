@@ -1,3 +1,1 @@
 # InventoryApp
-
-# Hello World !
